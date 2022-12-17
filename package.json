@@ -1,0 +1,16 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "my first package.json file",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "john",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "lodash": "^4.17.21"
+  }
+}
